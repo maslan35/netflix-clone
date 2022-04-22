@@ -1,3 +1,8 @@
+Netflix Clone with ReactJS
+
+Demo: https://peaceful-ganache-1c0200.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
